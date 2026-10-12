@@ -1,0 +1,12 @@
+qiskit>=1.2
+qiskit-aer>=0.15
+numpy
+scipy
+pandas
+networkx
+matplotlib
+pylatexenc
+jupyter
+nbformat
+ipykernel
+pytest

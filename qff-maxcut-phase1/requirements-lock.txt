@@ -1,0 +1,13 @@
+# versions this repo was built and tested with (Linux, Python 3.12); requirements.txt holds the loose constraints
+qiskit==2.5.2
+qiskit-aer==0.17.2
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+networkx==3.6.1
+matplotlib==3.10.8
+pylatexenc==2.11
+nbformat==5.11.1
+nbconvert==7.17.1
+ipykernel==7.4.0
+pytest==9.1.1
